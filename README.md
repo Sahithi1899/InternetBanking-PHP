@@ -1,7 +1,7 @@
 # Bank Management System
 
 ## Overview
-This is a bank management system developed by Sahithi Tumma as a project for their course. The system allows for managing bank operations including client and admin functionalities.
+This is a bank management system developed by Sahithi Tumma as a project for the course. The system allows for managing bank operations including client and admin functionalities.
 
 ## My details
 Wsu id:K747K594
