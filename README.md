@@ -1,7 +1,7 @@
-# Bank Management System
+# Banking Management System
 
 ## Overview
-This is a bank management system developed by Sahithi Tumma as a project for the course. The system allows for managing bank operations including client and admin functionalities.
+This is a banking management system developed by Sahithi Tumma as a project for the course. The system allows for managing bank operations including client and admin functionalities.
 
 ## My details
 Wsu id:K747K594
@@ -9,7 +9,8 @@ Name:Sahithi Tumma
 ## Git Details
 - GitHub ID: Sahithi1899
 - Contribution:
-<img width="674" alt="image" src="https://github.com/Sahithi1899/InternetBanking-PHP/assets/173850754/f80f8eec-5c07-4a4e-a5b8-4c2567e05b7b">
+<img width="946" alt="image" src="https://github.com/Sahithi1899/InternetBanking-PHP/assets/173850754/1e6bfae2-4a21-475b-be42-1746b1f7c441">
+
 
 ## YouTube Link
 Watch the project demo video link:https://youtu.be/J9SBzF18lvI
